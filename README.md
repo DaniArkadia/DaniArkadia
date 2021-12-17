@@ -31,4 +31,4 @@ YT: <a href="https://www.youtube.com/daniarkadia">Dani Arkadia - Survival Reviva
  
  <h2><a href=https://store.steampowered.com/app/1696960/Lake_Haven__Chrysalis/?l=czech&curator_clanid=4777282&utm_source=SteamDB">Wishlist our game on Steam!</a></h2>
 <img src=https://cdn.akamai.steamstatic.com/steam/apps/1696960/header.jpg?t=1636488372> <br>
-Official IG: <a href="https://www.instagram.com/lake_haven_ps1/">Lake_Haven_PS1</a>
+<a href="https://www.instagram.com/lake_haven_ps1/">@Lake_Haven_PS1</a>
