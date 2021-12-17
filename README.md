@@ -1,4 +1,6 @@
 <p><h1> Dani's PSX Lens Flares for HPS1RP <h1>
+ 
+<img src="https://ibb.co/jMf4DwY" alt="Dani's PSX Lens Flares">
 <h2>About</h2>
 This is little free asset I've made specifically to work with the Haunted PS1 render pipeline for use in Unity. As of writing this the standard implementation of lens flares which Unity provides doesn't work with HPS1RP, so I knocked this together in order to provide that functionality for anyone who desires it.  The default implementation of lens flares in Unity seems very unfinished so I also aimed to add some useful features to ensure you can get a result you'll be happy with. </p>
 
