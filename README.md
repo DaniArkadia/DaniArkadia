@@ -5,6 +5,7 @@
 This is little free asset I've made specifically to work with the Haunted PS1 render pipeline for use in Unity. As of writing this the standard implementation of lens flares which Unity provides doesn't work with HPS1RP, so I knocked this together in order to provide that functionality for anyone who desires it.  The default implementation of lens flares in Unity seems very unfinished so I also aimed to add some useful features to ensure you can get a result you'll be happy with. </p>
 
 <h2><b> Quick Setup </b></h2>
+ <p style: "color.red"> <b><i>MAKE SURE YOU ALREADY HAVE HPS1RP INSTALLED!</i></b></p>
 <ol> <li> Copy the folder into your project's assets folder. </li> 
 <li> Add the <b><i>LensFlare</i></b> component to any GameObject (usually it would be the same as a light source).
 <li> Select the example <b><i>LensFlares</i></b> In the <b><i>LensFlareAsset</i></b> field in the inspector.
@@ -30,5 +31,5 @@ IG: <a href="https://www.instagram.com/lord_arkadia/">@Lord_Arkadia</a> <br>
 YT: <a href="https://www.youtube.com/daniarkadia">Dani Arkadia - Survival Revival Games</a>
  
  <h2><a href=https://store.steampowered.com/app/1696960/Lake_Haven__Chrysalis/?l=czech&curator_clanid=4777282&utm_source=SteamDB">Wishlist our game on Steam!</a></h2>
-<a hred= "https://store.steampowered.com/app/1696960/Lake_Haven__Chrysalis/?l=czech&curator_clanid=4777282&utm_source=SteamDB"><img src=https://cdn.akamai.steamstatic.com/steam/apps/1696960/header.jpg?t=1636488372> <br>
+<a href= "https://store.steampowered.com/app/1696960/Lake_Haven__Chrysalis/?l=czech&curator_clanid=4777282&utm_source=SteamDB"><img src=https://cdn.akamai.steamstatic.com/steam/apps/1696960/header.jpg?t=1636488372> <br>
 <a href="https://www.instagram.com/lake_haven_ps1/">@Lake_Haven_PS1</a>
