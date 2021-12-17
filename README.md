@@ -7,14 +7,8 @@ This is little free asset I've made specifically to work with the Haunted PS1 re
 <h2><b> Quick Setup </b></h2>
 
 ```diff
-- red
-+ green
-! orange
-# gray
+- <b><i>MAKE SURE YOU ALREADY HAVE HPS1RP INSTALLED!</i></b>
 ```
-
-</pre>
-🔴<b><i>MAKE SURE YOU ALREADY HAVE HPS1RP INSTALLED!</i></b>
 <ol> <li> Copy the folder into your project's assets folder. </li> 
 <li> Add the <b><i>LensFlare</i></b> component to any GameObject (usually it would be the same as a light source).
 <li> Select the example <b><i>LensFlares</i></b> In the <b><i>LensFlareAsset</i></b> field in the inspector.
