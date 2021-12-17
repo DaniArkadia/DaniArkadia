@@ -9,7 +9,7 @@ This is little free asset I've made specifically to work with the Haunted PS1 re
 <li> Add the <b><i>LensFlare</i></b> component to any GameObject (usually it would be the same as a light source).
 <li> Select the example <b><i>LensFlares</i></b> In the <b><i>LensFlareAsset</i></b> field in the inspector.
 <li> Position your camera to face the lens flare source.</li>
-<li> Press play </li>
+<li> Press play. </li>
 <li> Double-Click on the asset and play around with all the settings to get a feel for how they work.</li></ol>
 
 <h2>Tips</h2>
@@ -30,4 +30,4 @@ IG: <a href="https://www.instagram.com/lord_arkadia/">@Lord_Arkadia</a> <br>
 YT: <a href="https://www.youtube.com/daniarkadia">Dani Arkadia - Survival Revival Games</a>
  
  <h2><a href=https://store.steampowered.com/app/1696960/Lake_Haven__Chrysalis/?l=czech&curator_clanid=4777282&utm_source=SteamDB">Wishlist our game on Steam!</a></h2>
- 
+<img src=https://cdn.akamai.steamstatic.com/steam/apps/1696960/header.jpg?t=1636488372>
