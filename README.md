@@ -5,7 +5,6 @@
 This is little free asset I've made specifically to work with the Haunted PS1 render pipeline for use in Unity. As of writing this the standard implementation of lens flares which Unity provides doesn't work with HPS1RP, so I knocked this together in order to provide that functionality for anyone who desires it.  The default implementation of lens flares in Unity seems very unfinished so I also aimed to add some useful features to ensure you can get a result you'll be happy with. </p>
 
 <h2><b> Quick Setup </b></h2>
-<pre>&lt;h2&gt;
 
 ```diff
 - red
@@ -14,7 +13,6 @@ This is little free asset I've made specifically to work with the Haunted PS1 re
 # gray
 ```
 
-&lt;/h2&gt;
 </pre>
 🔴<b><i>MAKE SURE YOU ALREADY HAVE HPS1RP INSTALLED!</i></b>
 <ol> <li> Copy the folder into your project's assets folder. </li> 
