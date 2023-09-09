@@ -4,5 +4,4 @@
  
 <h2>Contact</h2>
 <p>Email: devbeforebed@gmail.com<br>
-IG: <a href="https://www.instagram.com/lord_arkadia/">@Lord_Arkadia</a> <br>
 YT: <a href="https://www.youtube.com/daniarkadia">Dani Arkadia - Survival Revival Games</a>
